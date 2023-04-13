@@ -1238,7 +1238,7 @@
 			<key>MaxBIOSVersion</key>
 			<true/>
 			<key>ProcessorType</key>
-			<integer>1543</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
