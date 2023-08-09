@@ -1,5 +1,5 @@
 # H510M-i7-10700-OC-EFI
-OC 0.9.3
+OC 0.9.4
 支持的系统 Ventura
 [BIOS 设置](https://apple.sqlsec.com/3-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/3-1.html) 低版本系统自行测试
 
